@@ -1,7 +1,7 @@
 # JNUC 2019 - API 101 Resources
 
 ## Resources
-*[Jamf Developer Documentation](https://developer.jamf.com)*
+*[Jamf API Documentation](https://developer.jamf.com/documentation)*
 
 
 ## Jamf API Projects
