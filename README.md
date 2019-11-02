@@ -2,7 +2,7 @@
 
 ## Resources
 *[Jamf API Documentation](https://developer.jamf.com/documentation)*  
-*[YouTube Video How-to's, Examples and Resources](https://www.youtube.com/playlist?list=PLYCADoyoSKGmy0uq1BINMctHuF6W2TG2s)*
+*[YouTube Playlist - How-to's, Examples and Resources](https://www.youtube.com/playlist?list=PLYCADoyoSKGmy0uq1BINMctHuF6W2TG2s)*
 
 ## Jamf API Projects
 *[Jamf Marketplace](https://marketplace.jamf.com)*
