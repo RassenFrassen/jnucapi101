@@ -5,7 +5,8 @@
 *[YouTube Playlist - Jamf API How-to Videos and Walkthroughs](https://www.youtube.com/playlist?list=PLYCADoyoSKGmy0uq1BINMctHuF6W2TG2s)*
 
 ## Jamf API Projects
-*[Jamf Marketplace](https://marketplace.jamf.com)*  
+Jamf Marketplace  
+*https://marketplace.jamf.com*  
   
 *Move records from a Jamf Pro instance to another Jamf Pro instance (i.e. Test to Prod)*  
 https://github.com/jamf/JamfMigrator  
