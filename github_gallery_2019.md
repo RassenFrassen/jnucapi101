@@ -1,13 +1,13 @@
 # GitHub Gallery 2019 Project Links
 
-## https://github.com/jamf/jawa
+## LoanShark - https://github.com/cybertunnel/LoanShark
 
-## https://github.com/cybertunnel/LoanShark
+## TramsCloud AutoPatch - https://git.tramscloud.co.uk/projects/TC/repos/autopatch/browse
 
-## https://git.tramscloud.co.uk/projects/TC/repos/autopatch/browse
+## JAWA (Jamf Automation and Webhook Assistant) - https://github.com/jamf/jawa
 
-## https://github.com/cubandave/Jamf-Interaction-Toolkit
+## UEX - Jamf Intraction Toolkit - https://github.com/cubandave/Jamf-Interaction-Toolkit
 
-## https://github.com/mike-levenick/mut
+## The MUT - https://github.com/mike-levenick/mut
 
 ## Ceremony Link TBA!
