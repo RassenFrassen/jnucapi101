@@ -15,4 +15,6 @@ https://github.com/cubandave/Jamf-Interaction-Toolkit
 ## The MUT  
 https://github.com/mike-levenick/mut
 
-## Ceremony Link TBA!
+## Ceremony
+https://getceremony.app
+https://github.com/ABridoux/ceremony-jnuc
